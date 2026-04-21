@@ -1,0 +1,36 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office temporary / lock files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Agent internal files
+.agent/.cache/
+
+# Build artifacts
+*.log
+
+# PDF annotation backups
+*.pdf.bak
+*_annot.pdf
+
+# Archived content (归档) — prevent AI from auto-reading
+**/归档/
+**/归档/**
+
+# Large textbook files
+归档/课程指定教材/*.pdf

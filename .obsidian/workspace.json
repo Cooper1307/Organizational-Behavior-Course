@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "6d94f8bd7ed61a0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9da2bd7156ffd986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d75963c6201f70b6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "归档/课程指定教材/组织行为学精要 英文版·第14版14994789.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "组织行为学精要 英文版·第14版14994789"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b460e59c38f45df8",
+    "type": "split",
+    "children": [
+      {
+        "id": "397045188c4a2430",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c30db15cdd71fa8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "262eaaa30848a3b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ca5181bf09af4511",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "390d899fefd409fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "aac0f32a75bddc81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adf5d98a8b0eda0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "归档/课程指定教材/组织行为学精要 英文版·第14版14994789.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "组织行为学精要 英文版·第14版14994789 的反向链接列表"
+            }
+          },
+          {
+            "id": "2e211165a6d32a5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "归档/课程指定教材/组织行为学精要 英文版·第14版14994789.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "组织行为学精要 英文版·第14版14994789 的出链列表"
+            }
+          },
+          {
+            "id": "57369b232335a841",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "12b771184f2011ef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "54d37c4d9e885230",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "归档/课程指定教材/组织行为学精要 英文版·第14版14994789.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "组织行为学精要 英文版·第14版14994789 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "d75963c6201f70b6",
+  "lastOpenFiles": [
+    "week6/presentation演讲/PPT重新组织方案与演讲稿 copy.txt",
+    "week6/presentation演讲/PPT重新组织方案与演讲稿 copy.md",
+    "week6/presentation演讲/组织行为学.pptx",
+    "week6/presentation演讲/Cooper_Presentation_Slide.html",
+    "week6/presentation演讲/PPT展示文稿_纯净版.md",
+    "week6/presentation演讲/PPT重新组织方案与演讲稿.md",
+    "week6/presentation演讲/性格测试结果.md",
+    "动力测试.md",
+    "week6/presentation演讲/个人介绍及测试要求.md",
+    "week6/presentation演讲/动力测试.md",
+    "归档/课程指定教材/组织行为学精要 英文版·第14版14994789.pdf",
+    "归档/课程指定教材/组织行为学精要 英文版·第14版14994789.md"
+  ]
+}

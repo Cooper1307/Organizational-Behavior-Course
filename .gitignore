@@ -1,0 +1,15 @@
+# Office files
+*.pptx
+*.pdf
+*.docx
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Archives
+*.zip
+*.rar
+*.7z
